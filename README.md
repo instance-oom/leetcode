@@ -1,7 +1,8 @@
 # Leetcode
 Question List
-# | Name | Difficulty | My Submission
-----|------|------|:----:
+
+|#|Name|Difficulty| |
+|---|:----|:----|:---:
 001|[Two Sum](https://leetcode.com/problems/two-sum/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/001_TwoSum.js)
 007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/007_ReverseInteger.js)
 013|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/013_RomanToInteger.js)
