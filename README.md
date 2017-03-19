@@ -17,6 +17,7 @@ Question List
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/461_HammingDistance.js)
 496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/496_NextGreaterElementI.js)
+500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/500_KeyboardRow.js)
 504|[Base7](https://leetcode.com/problems/base-7/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/504_Base7.js)
 506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/506_RelativeRanks.js)
 520|[Detect Capital](https://leetcode.com/problems/relative-ranks/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/520_DetectCapital.js)
