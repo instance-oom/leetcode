@@ -14,6 +14,7 @@ Question List
 169|[Majority Element](https://leetcode.com/problems/majority-element/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/169_MajorityElement.js)
 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/171_ExcelSheetColumnNumber.js)
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/206_ReverseLinkedList.js)
+217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/217_ContainsDuplicate.js)
 258|[Add Digits](https://leetcode.com/problems/add-digits/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/258_AddDigits.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/461_HammingDistance.js)
