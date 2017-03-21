@@ -1,7 +1,7 @@
 # Leetcode
 Question List
 
-|#|Name|Difficulty| |
+|#|Name|Difficulty| JavaScript |
 |---|:----|:----|:---:
 001|[Two Sum](https://leetcode.com/problems/two-sum/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/001_TwoSum.js)
 007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/007_ReverseInteger.js)
