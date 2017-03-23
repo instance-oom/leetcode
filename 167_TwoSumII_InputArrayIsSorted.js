@@ -6,13 +6,18 @@
  * @return {number[]}
  */
 var twoSum = function (numbers, target) {
-  var mid = target / 2;
-  var tempArr = [];
-  for (var i = 0; i < numbers.length; i++) {
-    if (numbers[i] > target) break;
-    tempArr.push(numbers[i]);
+  var start = 0;
+  var end = numbers.length;
+  while (true) {
+    var temp = numbers[start] + numbers[end];
+    if (temp === target) break;
+    if (temp < target) {
+      start++;
+    } else {
+      end--;
+    }
   }
-  console.log(tempArr);
+  return [start, end];
 };
 
 var numbers = [2, 7, 11, 15];
