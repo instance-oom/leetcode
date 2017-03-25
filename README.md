@@ -17,6 +17,7 @@ Question List
 202|[Happy Number](https://leetcode.com/problems/happy-number/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/202_HappyNumber.js)
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/206_ReverseLinkedList.js)
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/217_ContainsDuplicate.js)
+226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/226_InvertBinaryTree.js)
 231|[Power of Two](https://leetcode.com/problems/power-of-two/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/231_PowerOfTwo.js)
 258|[Add Digits](https://leetcode.com/problems/add-digits/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/258_AddDigits.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
