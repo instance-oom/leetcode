@@ -23,6 +23,7 @@ Question List
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/242_ValidAnagram.js)
 258|[Add Digits](https://leetcode.com/problems/add-digits/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/258_AddDigits.js)
 268|[Missing Number](https://leetcode.com/problems/missing-number/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/268_MissingNumber.js)
+283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/283_MoveZeroes.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
 415|[Add Strings](https://leetcode.com/problems/add-strings/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/415_AddStrings.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/461_HammingDistance.js)
