@@ -27,6 +27,7 @@ Question List
 292|[Nim Games](https://leetcode.com/problems/nim-game/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/292_NimGame.js)
 326|[Power Of Three](https://leetcode.com/problems/power-of-three/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/326_PowerOfThree.js)
 344|[Reverse String](https://leetcode.com/problems/reverse-string/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/344_ReverseString.js)
+349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/349_IntersectionofTwoArrays.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
 415|[Add Strings](https://leetcode.com/problems/add-strings/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/415_AddStrings.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/461_HammingDistance.js)
