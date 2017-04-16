@@ -6,6 +6,7 @@ Question List
 001|[Two Sum](https://leetcode.com/problems/two-sum/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/001_TwoSum.js)
 007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/007_ReverseInteger.js)
 013|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/013_RomanToInteger.js)
+027|[Remove Element](https://leetcode.com/problems/remove-element/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/027_RemoveElement.js)
 083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/083_RemoveDuplicatesFromSortedList.js)
 100|[Same Tree](https://leetcode.com/problems/same-tree/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/100_SameTree.js)
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/104_MaximunDepthOfBinaryTree.js)
