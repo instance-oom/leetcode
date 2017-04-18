@@ -43,4 +43,5 @@ Question List
 506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/506_RelativeRanks.js)
 520|[Detect Capital](https://leetcode.com/problems/relative-ranks/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/520_DetectCapital.js)
 541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/541_ReverseStringII.js)
+551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/551_StudentAttendanceRecordI.js)
 557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/557_ReverseWordsInAStringIII.js)
