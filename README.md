@@ -31,6 +31,7 @@ Question List
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/283_MoveZeroes.js)
 292|[Nim Games](https://leetcode.com/problems/nim-game/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/292_NimGame.js)
 326|[Power Of Three](https://leetcode.com/problems/power-of-three/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/326_PowerOfThree.js)
+341|[Power Of Four](https://leetcode.com/problems/power-of-four/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/342_PowerOfFour.js)
 344|[Reverse String](https://leetcode.com/problems/reverse-string/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/344_ReverseString.js)
 349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/349_IntersectionofTwoArrays.js)
 350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/350_IntersectionOfTwoArraysII.js)
