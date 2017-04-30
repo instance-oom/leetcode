@@ -39,6 +39,7 @@ Question List
 371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/371_SumofTwoIntegers.js)
 387|[First Uniqe Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/387_FirstUniqueCharacterInAString.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
+404|[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/404_SumOfLeftLeaves.js)
 415|[Add Strings](https://leetcode.com/problems/add-strings/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/415_AddStrings.js)
 436|[Is Land Perimeter](https://leetcode.com/problems/island-perimeter/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/436_IslandPerimeter.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/461_HammingDistance.js)
