@@ -9,6 +9,7 @@ Question List
 021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/021_MergeTwoSortedLosts.js)
 027|[Remove Element](https://leetcode.com/problems/remove-element/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/027_RemoveElement.js)
 035|[Search Insert Position](https://leetcode.com/problems/search-insert-position/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/035_SearchInsertPosition.js)
+058|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/058_LengthOfLastWord.js)
 083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/083_RemoveDuplicatesFromSortedList.js)
 100|[Same Tree](https://leetcode.com/problems/same-tree/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/100_SameTree.js)
 104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/104_MaximunDepthOfBinaryTree.js)
