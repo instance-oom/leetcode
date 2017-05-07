@@ -19,6 +19,7 @@ Question List
 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/168_ExcelSheetColumnTitle.js)
 169|[Majority Element](https://leetcode.com/problems/majority-element/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/169_MajorityElement.js)
 171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/171_ExcelSheetColumnNumber.js)
+190|[Revers Bits](https://leetcode.com/problems/reverse-bits/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/190_ReverseBits.js)
 202|[Happy Number](https://leetcode.com/problems/happy-number/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/202_HappyNumber.js)
 206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/206_ReverseLinkedList.js)
 217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/217_ContainsDuplicate.js)
