@@ -57,3 +57,4 @@ Question List
 551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/551_StudentAttendanceRecordI.js)
 557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/557_ReverseWordsInAStringIII.js)
 561|[Array Partition I](https://leetcode.com/problems/array-partition-i/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/561_ArrayPartitionI.js)
+575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/575_DistributeCandies.js)
