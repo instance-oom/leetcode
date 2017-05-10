@@ -33,6 +33,7 @@ Question List
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/263_UglyNumber.js)
 268|[Missing Number](https://leetcode.com/problems/missing-number/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/268_MissingNumber.js)
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/283_MoveZeroes.js)
+290|[Word Pattern](https://leetcode.com/problems/word-pattern/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/290_WordPattern.js)
 292|[Nim Games](https://leetcode.com/problems/nim-game/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/292_NimGame.js)
 326|[Power Of Three](https://leetcode.com/problems/power-of-three/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/326_PowerOfThree.js)
 341|[Power Of Four](https://leetcode.com/problems/power-of-four/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/342_PowerOfFour.js)
