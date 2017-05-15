@@ -50,6 +50,7 @@ Question List
 434|[Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/434_NumberOfSegmentsInAString.js)
 436|[Is Land Perimeter](https://leetcode.com/problems/island-perimeter/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/436_IslandPerimeter.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/461_HammingDistance.js)
+447|[Number Of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/447_NumberOfBoomerangs.js)
 485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/485_MaxConsecutiveOnes.js)
 492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/492_ConstructTheRectangle.js)
 496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/496_NextGreaterElementI.js)
