@@ -1,10 +1,5 @@
 # Leetcode
 
-[Easy](https://github.com/lon-yang/leetcode/blob/master/docs/Easy.md) (Done: 63)
----
-
-[Medium](https://github.com/lon-yang/leetcode/blob/master/docs/Medium.md) (Done: 0)
----
-
-[Hard](https://github.com/lon-yang/leetcode/blob/master/docs/Hard.md) (Done: 0)
----
+<h4><a href="https://github.com/lon-yang/leetcode/blob/master/docs/Easy.md">Easy</a>  (Done: 63)</h4>
+<h4><a href="https://github.com/lon-yang/leetcode/blob/master/docs/Medium.md">Medium</a>  (Done: 0)</h4>
+<h4><a href="https://github.com/lon-yang/leetcode/blob/master/docs/Hard.md">Hard</a>  (Done: 0)</h4>
