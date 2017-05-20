@@ -38,5 +38,3 @@ root.right.left = new TreeNode(15);
 root.right.right = new TreeNode(7);
 
 console.log(levelOrderBottom(root));
-
-// todo: 未完成
