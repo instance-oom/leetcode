@@ -44,6 +44,7 @@ Question List
 344|[Reverse String](https://leetcode.com/problems/reverse-string/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/344_ReverseString.js)
 349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/349_IntersectionofTwoArrays.js)
 350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/350_IntersectionOfTwoArraysII.js)
+367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/167_ValidPerfectSquare.js)
 371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/?tab=Description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/371_SumofTwoIntegers.js)
 387|[First Uniqe Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/387_FirstUniqueCharacterInAString.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark:](https://github.com/lon-yang/leetcode/blob/master/401_BinaryWatch.js)
