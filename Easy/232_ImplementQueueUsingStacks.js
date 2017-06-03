@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/implement-queue-using-stacks/#/description
+
 /**
  * Initialize your data structure here.
  */
@@ -25,7 +27,6 @@ MyQueue.prototype.pop = function () {
 /**
  * Get the front element.
  * @return {number}
- // https://leetcode.com/problems/implement-queue-using-stacks/#/description
 
  */
 MyQueue.prototype.peek = function () {
