@@ -70,6 +70,7 @@ Question List
 500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/500_KeyboardRow.js)
 504|[Base 7](https://leetcode.com/problems/base-7/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/504_Base7.js)
 506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/506_RelativeRanks.js)
+507|[Perfect Number](https://leetcode.com/problems/perfect-number/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/507_PerfectNumber.js)
 520|[Detect Capital](https://leetcode.com/problems/detect-capital/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/520_DetectCapital.js)
 532|[K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/532_K-diffPairsInAnArray.js)
 541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/541_ReverseStringII.js)
