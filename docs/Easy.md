@@ -13,6 +13,7 @@ Question List
 066|[Plus One](https://leetcode.com/problems/plus-one/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/066_PlusOne.js)
 083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/083_RemoveDuplicatesFromSortedList.js)
 100|[Same Tree](https://leetcode.com/problems/same-tree/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/100_SameTree.js)
+101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/101_SymmetricTree.js)
 104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/104_MaximunDepthOfBinaryTree.js)
 107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/107_BinaryTreeLevelOrderTraversalII.js)
 108|[Convert Sorted Array To Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/108_ConvertSortedArrayToBinarySearchTree.js)
