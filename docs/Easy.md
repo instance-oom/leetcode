@@ -7,6 +7,7 @@ Question List
 007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/007_ReverseInteger.js)
 009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/009_PalindromeNumber.js)
 013|[Roman To Integer](https://leetcode.com/problems/roman-to-integer/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/013_RomanToInteger.js)
+014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/014_LongestCommonPrefix.js)
 021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/021_MergeTwoSortedLists.js)
 026|[Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/026_RemoveDuplicatesFromSortedArray.js)
 027|[Remove Element](https://leetcode.com/problems/remove-element/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/027_RemoveElement.js)
