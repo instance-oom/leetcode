@@ -17,6 +17,7 @@ Question List
 058|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/058_LengthOfLastWord.js)
 066|[Plus One](https://leetcode.com/problems/plus-one/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/066_PlusOne.js)
 083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/083_RemoveDuplicatesFromSortedList.js)
+088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/088_MergeSortedArray.js)
 100|[Same Tree](https://leetcode.com/problems/same-tree/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/100_SameTree.js)
 101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/101_SymmetricTree.js)
 104|[Maximum Depth Of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/104_MaximunDepthOfBinaryTree.js)
