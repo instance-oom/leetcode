@@ -59,6 +59,7 @@ Question List
 383|[Ransom Note](https://leetcode.com/problems/ransom-note/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/383_RansomNote.js)
 387|[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/387_FirstUniqueCharacterInAString.js)
 389|[Find The Difference](https://leetcode.com/problems/find-the-difference/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/389_FindTheDifference.js)
+400|[Nth Digit](https://leetcode.com/problems/nth-digit/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/400_NthDigit.js)
 401|[Binary Watch](https://leetcode.com/problems/binary-watch/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/401_BinaryWatch.js)
 404|[Sum Of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/404_SumOfLeftLeaves.js)
 405|[Convert A Number To Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/405_ConvertANumberToHexadecimal.js)
