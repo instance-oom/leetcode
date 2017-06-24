@@ -65,6 +65,7 @@ Question List
 405|[Convert A Number To Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/405_ConvertANumberToHexadecimal.js)
 409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/409_LongestPalindrome.js)
 412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/412_FizzBuzz.js)
+414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/414_ThirdMaximumNumber.js)
 415|[Add Strings](https://leetcode.com/problems/add-strings/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/415_AddStrings.js)
 434|[Number Of Segments In A String](https://leetcode.com/problems/number-of-segments-in-a-string/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/434_NumberOfSegmentsInAString.js)
 436|[Island Perimeter](https://leetcode.com/problems/island-perimeter/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/436_IslandPerimeter.js)
