@@ -16,6 +16,7 @@ Question List
 053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/053_MaximumSubarray.js)
 058|[Length Of Last Word](https://leetcode.com/problems/length-of-last-word/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/058_LengthOfLastWord.js)
 066|[Plus One](https://leetcode.com/problems/plus-one/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/066_PlusOne.js)
+067|[Add Binary](https://leetcode.com/problems/add-binary/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/067_AddBinary.js)
 083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/083_RemoveDuplicatesFromSortedList.js)
 088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/088_MergeSortedArray.js)
 100|[Same Tree](https://leetcode.com/problems/same-tree/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/100_SameTree.js)
