@@ -99,5 +99,6 @@ Question List
 598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/598_RangeAdditionII.js)
 599|[Minimum Index Sum Of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/599_MinimumIndexSumOfTwoLists.js)
 606|[Construct String From Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/606_ConstructStringfromBinaryTree.js)
+617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/617_MergeTwoBinaryTrees.js)
 624|[Maximum Distance In Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/624_MaximumDistanceInArrays.js)
 628|[Maximum Product Of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/628_MaximumProductOfThreeNumbers.js)
