@@ -59,6 +59,7 @@ Question List
 350|[Intersection Of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/350_IntersectionOfTwoArraysII.js)
 367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/367_ValidPerfectSquare.js)
 371|[Sum Of Two Integers](https://leetcode.com/problems/sum-of-two-integers/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/371_SumofTwoIntegers.js)
+374|[Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/374_GuessNumberHigherOrLower.cpp)
 383|[Ransom Note](https://leetcode.com/problems/ransom-note/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/383_RansomNote.js)
 387|[First Unique Character In A String](https://leetcode.com/problems/first-unique-character-in-a-string/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/387_FirstUniqueCharacterInAString.js)
 389|[Find The Difference](https://leetcode.com/problems/find-the-difference/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/389_FindTheDifference.js)
