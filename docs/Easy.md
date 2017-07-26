@@ -55,6 +55,7 @@ Question List
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/283_MoveZeroes.js)
 290|[Word Pattern](https://leetcode.com/problems/word-pattern/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/290_WordPattern.js)
 292|[Nim Game](https://leetcode.com/problems/nim-game/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/292_NimGame.js)
+303|[Range Sum Query Immutable](https://leetcode.com/problems/range-sum-query-immutable/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/303_Range Sum Query - Immutable.js)
 326|[Power Of Three](https://leetcode.com/problems/power-of-three/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/326_PowerOfThree.js)
 342|[Power Of Four](https://leetcode.com/problems/power-of-four/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/342_PowerOfFour.js)
 344|[Reverse String](https://leetcode.com/problems/reverse-string/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/344_ReverseString.js)
