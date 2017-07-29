@@ -65,5 +65,3 @@ var addBinary = function (a, b) {
 console.log(addBinary('11', '1'));
 console.log(addBinary('101', '1'));
 console.log(addBinary('1111', '11'));
-
-// TODO: Not Working
