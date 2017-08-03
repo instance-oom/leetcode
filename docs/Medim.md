@@ -9,3 +9,4 @@ Question List
 513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/#/description)|Medim|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medim/513_FindBottomLeftTreeValue.js)
 515|[Find Largest Value In Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/#/description)|Medim|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medim/515_FindLargestValueInEachTreeRow.js)
 540|[Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/#/description)|Medim|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medim/540_SingleElementInASortedArray.js)
+609|[Find Duplicate File In System](https://leetcode.com/problems/find-duplicate-file-in-system/#/description)|Medim|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medim/609_FindDuplicateFileInSystem.js)
