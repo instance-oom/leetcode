@@ -52,6 +52,7 @@ Question List
 232|[Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/232_ImplementQueueUsingStacks.js)
 237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/237_DeleteNodeInALinkedList.js)
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/242_ValidAnagram.js)
+257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/257_Binary Tree Paths.js)
 258|[Add Digits](https://leetcode.com/problems/add-digits/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/258_AddDigits.js)
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/263_UglyNumber.js)
 268|[Missing Number](https://leetcode.com/problems/missing-number/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/268_MissingNumber.js)
