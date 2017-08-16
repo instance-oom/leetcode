@@ -33,6 +33,7 @@ Question List
 125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/125_ValidPalindrome.js)
 136|[Single Number](https://leetcode.com/problems/single-number/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/136_SingleNumber.js)
 141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/141_LinkedListCycle.js)
+155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/155_Min%20Stack.js)
 167|[Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/167_TwoSumII_InputArrayIsSorted.js)
 168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/168_ExcelSheetColumnTitle.js)
 169|[Majority Element](https://leetcode.com/problems/majority-element/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/169_MajorityElement.js)
