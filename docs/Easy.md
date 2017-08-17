@@ -57,6 +57,7 @@ Question List
 258|[Add Digits](https://leetcode.com/problems/add-digits/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/258_AddDigits.js)
 263|[Ugly Number](https://leetcode.com/problems/ugly-number/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/263_UglyNumber.js)
 268|[Missing Number](https://leetcode.com/problems/missing-number/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/268_MissingNumber.js)
+278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/278_First%20Bad%20Version.js)
 283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/283_MoveZeroes.js)
 290|[Word Pattern](https://leetcode.com/problems/word-pattern/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/290_WordPattern.js)
 292|[Nim Game](https://leetcode.com/problems/nim-game/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/292_NimGame.js)
