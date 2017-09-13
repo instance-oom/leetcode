@@ -15,3 +15,4 @@ Question List
 540|[Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/540_SingleElementInASortedArray.js)
 609|[Find Duplicate File In System](https://leetcode.com/problems/find-duplicate-file-in-system/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/609_FindDuplicateFileInSystem.js)
 648|[Replace Words](https://leetcode.com/problems/replace-words/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/648_Replace%20Words.js)
+654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/654_Maximum%20Binary%20Tree.js)
