@@ -18,21 +18,13 @@ function ListNode(val) {
  * @return {boolean}
  */
 var isPalindrome = function (head) {
-  var arr = [head.val];
-  head = head.next;
-  var last = arr[0];
-  var count = 1;
+  var arr = [];
   while (head) {
-    count++;
-    if (head.val === last) {
-      arr.pop();
-    } else {
-      arr.push(head.val);
-    }
-    last = arr[arr.length - 1];
+    arr.push(head.val);
     head = head.next;
   }
-  console.log(arr);
+
+  return arr.join('') === arr.reverse().join('');
 };
 
 var head = new ListNode(1);
