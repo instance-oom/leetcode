@@ -128,3 +128,4 @@ Question List
 657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/657_Judge%20Route%20Circle.js)
 671|[Second Minimum Node In A Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/671_Second%20Minimum%20Node%20In%20a%20Binary%20Tree.js)
 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/674_Longest%20Continuous%20Increasing%20Subsequence.js)
+680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/680_Valid%20Palindrome%20II.js)
