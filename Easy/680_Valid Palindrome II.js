@@ -5,28 +5,39 @@
  * @return {boolean}
  */
 var validPalindrome = function (s) {
-  var arr = s.split('');
-  var reversedArr = [].concat(arr).reverse();
+  var low = 0;
+  var high = s.length - 1;
+  var skiped = false;
 
-  if (arr.join('') === reversedArr.join('')) {
-    return true;
-  }
+  while (low < high) {
+    if (s[low] === s[high]) {
+      low++;
+      high--;
+    } else {
 
-  var len = s.length;
-  for (var i = 0; i < len; i++) {
-    var temp = arr[i];
-    arr[i] = '';
-    reversedArr[len - 1 - i] = '';
-    if (arr.join('') === reversedArr.join('')) {
-      return true;
+      var tempLow = low;
+      var tempHigh = high - 1;
+
+      while (tempLow < tempHigh) {
+        if (s[tempLow] != s[tempHigh]) break;
+        tempLow++;
+        tempHigh--;
+        if (tempLow >= tempHigh) return true;
+      }
+
+      low++;
+      while (low < high) {
+        if (s[low] !== s[high]) return false;
+        low++;
+        high--;
+      }
     }
-    arr[i] = temp;
-    reversedArr[len - 1 - i] = temp;
   }
 
-  return false;
+  return true;
 };
-
 
 console.log(validPalindrome('aba'));
 console.log(validPalindrome('abca'));
+console.log(validPalindrome('abcbcca'));
+console.log(validPalindrome("ebcbbececabbacecbbcbe"));
