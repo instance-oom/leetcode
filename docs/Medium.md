@@ -5,6 +5,7 @@ Question List
 |---|:----|:----|:---:
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/260_SingleNumberIII.js)
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/338_CountingBits.js)
+382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/382_Linked%20List%20Random%20Node.js)
 413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/413_Arithmetic%20Slices.js)
 442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/442_FindAllDuplicatesInAnArray.js)
 451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/451_Sort%20Characters%20By%20Frequency.js)
@@ -16,4 +17,5 @@ Question List
 609|[Find Duplicate File In System](https://leetcode.com/problems/find-duplicate-file-in-system/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/609_FindDuplicateFileInSystem.js)
 648|[Replace Words](https://leetcode.com/problems/replace-words/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/648_Replace%20Words.js)
 654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/654_Maximum%20Binary%20Tree.js)
+676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/676_Implement%20Magic%20Dictionary.js)
 677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/677_Map%20Sum%20Pairs.js)
