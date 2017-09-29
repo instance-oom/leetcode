@@ -6,6 +6,7 @@ Question List
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/260_SingleNumberIII.js)
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/338_CountingBits.js)
 382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/382_Linked%20List%20Random%20Node.js)
+384|[Shuffle An Array](https://leetcode.com/problems/shuffle-an-array/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/384_Shuffle%20an%20Array.js)
 413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/413_Arithmetic%20Slices.js)
 442|[Find All Duplicates In An Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/442_FindAllDuplicatesInAnArray.js)
 451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/451_Sort%20Characters%20By%20Frequency.js)
