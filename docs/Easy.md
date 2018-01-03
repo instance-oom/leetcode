@@ -130,3 +130,4 @@ Question List
 674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/674_Longest%20Continuous%20Increasing%20Subsequence.js)
 680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/680_Valid%20Palindrome%20II.js)
 693|[Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/693_Binary%20Number%20with%20Alternating%20Bits.js)
+728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/728_Self%20Dividing%20Numbers.js)
