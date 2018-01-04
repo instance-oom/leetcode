@@ -131,3 +131,4 @@ Question List
 680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/680_Valid%20Palindrome%20II.js)
 693|[Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/693_Binary%20Number%20with%20Alternating%20Bits.js)
 728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/728_Self%20Dividing%20Numbers.js)
+747|[Largest Number At Least Twice Of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/747_Largest%20Number%20At%20Least%20Twice%20of%20Others.js)
