@@ -9,6 +9,7 @@ Question List
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/338_CountingBits.js)
 343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/343_Integer%20Break.js)
 347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/347_Top%20K%20Frequent%20Elements.js)
+357|[Count Numbers With Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/357_Count%20Numbers%20with%20Unique%20Digits.js)
 382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/382_Linked%20List%20Random%20Node.js)
 384|[Shuffle An Array](https://leetcode.com/problems/shuffle-an-array/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/384_Shuffle%20an%20Array.js)
 406|[Queue Reconstruction By Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/406_Queue%20Reconstruction%20by%20Height.js)
