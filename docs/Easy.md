@@ -140,3 +140,4 @@ Question List
 760|[Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/760_Find%20Anagram%20Mappings.js)
 762|[Prime Number Of Set Bits In Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/762_Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.js)
 766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/766_Toeplitz%20Matrix.js)
+771|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/771_Jewels%20and%20Stones.js)
