@@ -36,5 +36,6 @@ Question List
 676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/676_Implement%20Magic%20Dictionary.js)
 677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/677_Map%20Sum%20Pairs.js)
 699|[Employee Importance](https://leetcode.com/problems/employee-importance/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/699_Employee%20Importance.cpp)
+725|[Split Linked List In Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/725_Split%20Linked%20List%20in%20Parts.js)
 739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/739_Daily%20Temperatures.js)
 748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/748_Shortest%20Completing%20Word.js)
