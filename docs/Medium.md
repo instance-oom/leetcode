@@ -11,6 +11,7 @@ Question List
 024|[Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/024_Swap%20Nodes%20in%20Pairs.js)
 043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/043_Multiply%20Strings.js)
 049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/049_Group%20Anagrams.js)
+050|[Powx N](https://leetcode.com/problems/powx-n/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/050_Pow(x%2C%20n).js)
 238|[Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/238_Product%20of%20Array%20Except%20Self.js)
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/260_SingleNumberIII.js)
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/338_CountingBits.js)
