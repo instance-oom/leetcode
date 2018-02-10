@@ -9,11 +9,10 @@ var licenseKeyFormatting = function (S, K) {
   S = S.replace(/-/g, '').toUpperCase();
   let len = S.length;
   let firstPartLen = len % K;
-  let result = [];
+  let result = '';
   if (firstPartLen !== 0) {
-    result[0] = '';
     for (let i = 0; i < firstPartLen; i++) {
-      result[0] += S[i];
+      result += S[i];
     }
   }
   for (let i = firstPartLen; i < len; i += K) {
@@ -21,9 +20,15 @@ var licenseKeyFormatting = function (S, K) {
     for (let j = i; j < i + K; j++) {
       temp += S[j];
     }
-    result.push(temp);
+    if (temp) {
+      if (result) {
+        result += '-' + temp;
+      } else {
+        result = temp;
+      }
+    }
   }
-  return result.join('-');
+  return result;
 };
 
 let S = "5F3Z-2e-9-w";
