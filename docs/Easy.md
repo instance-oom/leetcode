@@ -95,6 +95,7 @@ Question List
 459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/459_RepeatedSubstringPattern.js)
 461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/461_HammingDistance.js)
 476|[Number Complement](https://leetcode.com/problems/number-complement/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/476_NumberComplement.js)
+482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/482_License%20Key%20Formatting.js)
 485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/485_MaxConsecutiveOnes.js)
 492|[Construct The Rectangle](https://leetcode.com/problems/construct-the-rectangle/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/492_ConstructTheRectangle.js)
 496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/496_NextGreaterElementI.js)
