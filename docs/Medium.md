@@ -10,6 +10,7 @@ Question List
 017|[Letter Combinations Of A Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/017_Letter%20Combinations%20of%20a%20Phone%20Number.js)
 019|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/019_Remove%20Nth%20Node%20From%20End%20of%20List.js)
 024|[Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/024_Swap%20Nodes%20in%20Pairs.js)
+034|[Search For A Range](https://leetcode.com/problems/search-for-a-range/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/034_Search%20for%20a%20Range.js)
 043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/043_Multiply%20Strings.js)
 049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/049_Group%20Anagrams.js)
 050|[Powx N](https://leetcode.com/problems/powx-n/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/050_Pow(x%2C%20n).js)
