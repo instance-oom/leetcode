@@ -35,6 +35,16 @@ var merge = function (nums1, m, nums2, n) {
   }
 };
 
+var merge2 = function (nums1, m, nums2, n) {
+  nums1.length = m;
+  nums2.length = n;
+
+  Array.prototype.push.apply(nums1, nums2);
+  nums1.sort(function (a, b) {
+    return a - b;
+  });
+}
+
 var nums1 = [1, 3, 5, 7];
 var nums2 = [0, 2, 6];
 merge(nums1, 4, nums2, 3);
