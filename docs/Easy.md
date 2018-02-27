@@ -19,6 +19,7 @@ Question List
 066|[Plus One](https://leetcode.com/problems/plus-one/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/066_PlusOne.js)
 067|[Add Binary](https://leetcode.com/problems/add-binary/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/067_AddBinary.js)
 069|[Sqrtx](https://leetcode.com/problems/sqrtx/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/069_Sqrt(x).js)
+070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/070_Climbing%20Stairs.js)
 083|[Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/083_RemoveDuplicatesFromSortedList.js)
 088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/088_MergeSortedArray.js)
 100|[Same Tree](https://leetcode.com/problems/same-tree/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/100_SameTree.js)
