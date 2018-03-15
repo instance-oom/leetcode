@@ -5,6 +5,14 @@
  */
 var NumMatrix = function (matrix) {
   this.matrix = matrix;
+  this.sums = [];
+  for (let i = 0; i < matrix.length; i++) {
+    let temp = matrix[i];
+    this.sums[i] = [temp[0]];
+    for (let j = 1; j < temp.length; j++) {
+      this.sums[i][j] = this.sums[i][j - 1] + temp[j];
+    }
+  }
 };
 
 /** 
@@ -19,10 +27,18 @@ NumMatrix.prototype.sumRegion = function (row1, col1, row2, col2) {
   row2 = Math.min(row2, this.matrix.length);
   for (row1; row1 <= row2; row1++) {
     let colStart = col1;
-    let colEnd =  Math.min(col2, this.matrix[row1].length);
+    let colEnd = Math.min(col2, this.matrix[row1].length);
     for (colStart; colStart <= colEnd; colStart++) {
       sum += this.matrix[row1][colStart];
     }
+  }
+  return sum;
+};
+
+NumMatrix.prototype.sumRegion2 = function (row1, col1, row2, col2) {
+  let sum = 0;
+  for (row1; row1 <= row2; row1++) {
+    sum += (this.sums[row1][col2] - this.sums[row1][col1]) + this.matrix[row1][col1];
   }
   return sum;
 };
@@ -41,6 +57,6 @@ let matrix = [
   [1, 0, 3, 0, 5]
 ];
 let obj = new NumMatrix(matrix);
-console.log(obj.sumRegion(2, 1, 4, 3))  // 8
-console.log(obj.sumRegion(1, 1, 2, 2))  // 11
-console.log(obj.sumRegion(1, 2, 2, 4))  // 12
+console.log(obj.sumRegion2(2, 1, 4, 3))  // 8
+console.log(obj.sumRegion2(1, 1, 2, 2))  // 11
+console.log(obj.sumRegion2(1, 2, 2, 4))  // 12
