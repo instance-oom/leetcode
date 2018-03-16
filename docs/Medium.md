@@ -35,6 +35,7 @@ Question List
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/260_SingleNumberIII.js)
 264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/264_Ugly%20Number%20II.js)
 304|[Range Sum Query 2d Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/304_Range%20Sum%20Query%202D%20-%20Immutable.js)
+307|[Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/307_Range%20Sum%20Query%20-%20Mutable.js)
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/338_CountingBits.js)
 343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/343_Integer%20Break.js)
 347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/347_Top%20K%20Frequent%20Elements.js)
