@@ -39,6 +39,7 @@ Question List
 299|[Bulls And Cows](https://leetcode.com/problems/bulls-and-cows/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/299_Bulls%20and%20Cows.js)
 304|[Range Sum Query 2d Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/304_Range%20Sum%20Query%202D%20-%20Immutable.js)
 307|[Range Sum Query Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/307_Range%20Sum%20Query%20-%20Mutable.js)
+328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/328_Odd%20Even%20Linked%20List.js)
 338|[Counting Bits](https://leetcode.com/problems/counting-bits/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/338_CountingBits.js)
 343|[Integer Break](https://leetcode.com/problems/integer-break/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/343_Integer%20Break.js)
 347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/347_Top%20K%20Frequent%20Elements.js)
