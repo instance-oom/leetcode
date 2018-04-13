@@ -145,5 +145,6 @@ Question List
 762|[Prime Number Of Set Bits In Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/762_Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation.js)
 766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/766_Toeplitz%20Matrix.js)
 771|[Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/771_Jewels%20and%20Stones.js)
+796|[Rotate String](https://leetcode.com/problems/rotate-string/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/796_Rotate%20String.js)
 806|[Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/806_Number%20of%20Lines%20To%20Write%20String.js)
 812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/812_Largest%20Triangle%20Area.js)
