@@ -149,3 +149,4 @@ Question List
 804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/804_Unique%20Morse%20Code%20Words.js)
 806|[Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/806_Number%20of%20Lines%20To%20Write%20String.js)
 812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/812_Largest%20Triangle%20Area.js)
+814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/814_Binary%20Tree%20Pruning.js)
