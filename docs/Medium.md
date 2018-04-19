@@ -19,6 +19,7 @@ Question List
 050|[Powx N](https://leetcode.com/problems/powx-n/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/050_Pow(x%2C%20n).js)
 061|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/061_Rotate%20List.js)
 075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/075_Sort%20Colors.js)
+078|[Subsets](https://leetcode.com/problems/subsets/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/078_Subsets.js)
 080|[Remove Duplicates From Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/080_Remove%20Duplicates%20from%20Sorted%20Array%20II.js)
 081|[Search In Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/081_Search%20in%20Rotated%20Sorted%20Array%20II.js)
 082|[Remove Duplicates From Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/082_Remove%20Duplicates%20from%20Sorted%20List%20II.js)
