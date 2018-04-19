@@ -4,7 +4,7 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
-var subsets = function (nums) {
+var subsets2 = function (nums) {
   let result = [[]];
   for (let num of nums) {
     let len = result.length;
@@ -14,6 +14,23 @@ var subsets = function (nums) {
       result.push(temp);
     }
   }
+  return result;
+};
+
+var subsets = function (nums) {
+  let dfs = (tempRes, nums, start) => {
+    if (start === nums.length) return [];
+    let result = [];
+    for (let i = start; i < nums.length; i++) {
+      let temp = [].concat(tempRes);
+      temp.push(nums[i]);
+      result.push(temp);
+      result = result.concat(dfs(temp, nums, i + 1));
+    }
+    return result;
+  }
+
+  let result = [[]].concat(dfs([], nums, 0));
   return result;
 };
 
