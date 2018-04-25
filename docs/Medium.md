@@ -37,6 +37,7 @@ Question List
 137|[Single Number II](https://leetcode.com/problems/single-number-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/137_Single%20Number%20II.js)
 142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/142_Linked%20List%20Cycle%20II.js)
 143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/143_Reorder%20List.js)
+144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/144_Binary%20Tree%20Preorder%20Traversal.js)
 151|[Reverse Words In A String](https://leetcode.com/problems/reverse-words-in-a-string/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/151_Reverse%20Words%20in%20a%20String.js)
 162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/description/#)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/162_Find%20Peak%20Element.js)
 165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/165_Compare%20Version%20Numbers.js)
