@@ -43,6 +43,7 @@ Question List
 165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/165_Compare%20Version%20Numbers.js)
 215|[Kth Largest Element In An Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/215_Kth%20Largest%20Element%20in%20an%20Array.js)
 228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/228_Summary%20Ranges.js)
+230|[Kth Smallest Element In A Bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/230_Kth%20Smallest%20Element%20in%20a%20BST.js)
 238|[Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/238_Product%20of%20Array%20Except%20Self.js)
 260|[Single Number III](https://leetcode.com/problems/single-number-iii/#/description)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/260_SingleNumberIII.js)
 264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/264_Ugly%20Number%20II.js)
