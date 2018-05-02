@@ -54,6 +54,7 @@ Question List
 231|[Power Of Two](https://leetcode.com/problems/power-of-two/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/231_PowerOfTwo.js)
 232|[Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/232_ImplementQueueUsingStacks.js)
 234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/234_Palindrome%20Linked%20List.js)
+235|[Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/235_Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js)
 237|[Delete Node In A Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/237_DeleteNodeInALinkedList.js)
 242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/242_ValidAnagram.js)
 257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/257_Binary%20Tree%20Paths.js)
@@ -150,3 +151,4 @@ Question List
 806|[Number Of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/806_Number%20of%20Lines%20To%20Write%20String.js)
 812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/812_Largest%20Triangle%20Area.js)
 814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/814_Binary%20Tree%20Pruning.js)
+821|[Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/821_Shortest%20Distance%20to%20a%20Character.js)
