@@ -1,9 +1,9 @@
-exports.TreeNode = (val) => {
+exports.TreeNode = function (val) {
   this.val = val;
   this.left = this.right = null;
 }
 
-exports.ListNode = (val) => {
+exports.ListNode = function (val) {
   this.val = val;
   this.next = null;
 }

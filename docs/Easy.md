@@ -107,6 +107,7 @@ Question List
 507|[Perfect Number](https://leetcode.com/problems/perfect-number/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/507_PerfectNumber.js)
 520|[Detect Capital](https://leetcode.com/problems/detect-capital/?tab=Description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/520_DetectCapital.js)
 521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/521_LongestUncommonSubsequenceI.js)
+530|[Minimum Absolute Difference In Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/530_Minimum%20Absolute%20Difference%20in%20BST.js)
 532|[K Diff Pairs In An Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/532_K-diffPairsInAnArray.js)
 541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/541_ReverseStringII.js)
 551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/#/description)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/551_StudentAttendanceRecordI.js)
