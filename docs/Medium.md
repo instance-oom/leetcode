@@ -16,6 +16,7 @@ Question List
 034|[Search For A Range](https://leetcode.com/problems/search-for-a-range/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/034_Search%20for%20a%20Range.js)
 043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/043_Multiply%20Strings.js)
 046|[Permutations](https://leetcode.com/problems/permutations/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/046_Permutations.js)
+048|[Rotate Image](https://leetcode.com/problems/rotate-image/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/048_Rotate%20Image.js)
 049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/049_Group%20Anagrams.js)
 050|[Powx N](https://leetcode.com/problems/powx-n/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/050_Pow(x%2C%20n).js)
 059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/059_Spiral%20Matrix%20II.js)
