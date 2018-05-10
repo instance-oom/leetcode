@@ -21,6 +21,7 @@ Question List
 050|[Powx N](https://leetcode.com/problems/powx-n/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/050_Pow(x%2C%20n).js)
 059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/059_Spiral%20Matrix%20II.js)
 061|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/061_Rotate%20List.js)
+073|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/073_Set%20Matrix%20Zeroes.js)
 075|[Sort Colors](https://leetcode.com/problems/sort-colors/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/075_Sort%20Colors.js)
 077|[Combinations](https://leetcode.com/problems/combinations/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/077_Combinations.js)
 078|[Subsets](https://leetcode.com/problems/subsets/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/078_Subsets.js)
