@@ -16,17 +16,17 @@ var maxAreaOfIsland = function (grid) {
       grid[i][j] = 0;
     }
     let area = 1;
-    if (j <= width - 2) {
-      area += getArea(i, j + 1);
-    }
-    if (j >= 1) {
-      area += getArea(i, j - 1);
-    }
     if (i <= height - 2) {
       area += getArea(i + 1, j);
     }
     if (i >= 1) {
       area += getArea(i - 1, j);
+    }
+    if (j <= width - 2) {
+      area += getArea(i, j + 1);
+    }
+    if (j >= 1) {
+      area += getArea(i, j - 1);
     }
     return area;
   }
