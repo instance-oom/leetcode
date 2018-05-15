@@ -157,3 +157,4 @@ Question List
 819|[Most Common Word](https://leetcode.com/problems/most-common-word/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/819_Most%20Common%20Word.js)
 821|[Shortest Distance To A Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/821_Shortest%20Distance%20to%20a%20Character.js)
 830|[Positions Of Large Groups](https://leetcode.com/problems/positions-of-large-groups/description/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/830_Positions%20of%20Large%20Groups.js)
+832|[Https:](https://leetcode-cn.com/contest/weekly-contest-84/problems/flipping-an-image/)|Easy|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Easy/832_Flipping%20an%20Image.js)

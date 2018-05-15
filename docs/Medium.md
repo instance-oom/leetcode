@@ -90,3 +90,5 @@ Question List
 763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/763_Partition%20Labels.js)
 791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/791_Custom%20Sort%20String.js)
 811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/811_Subdomain%20Visit%20Count.js)
+833|[Https:](https://leetcode-cn.com/contest/weekly-contest-84/problems/find-and-replace-in-string/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/833_Find%20And%20Replace%20in%20String.js)
+835|[Https:](https://leetcode-cn.com/contest/weekly-contest-84/problems/image-overlap/)|Medium|[:heavy_check_mark: Done](https://github.com/lon-yang/leetcode/blob/master/Medium/835_Image%20Overlap.js)
